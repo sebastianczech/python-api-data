@@ -1,0 +1,177 @@
+[
+  {
+    "year": "1999-2000",
+    "season": "1999-2000",
+    "winner": "Manchester United",
+    "points": 91,
+    "manager": "Sir Alex Ferguson"
+  },
+  {
+    "year": "2000-2001",
+    "season": "2000-2001",
+    "winner": "Manchester United",
+    "points": 80,
+    "manager": "Sir Alex Ferguson"
+  },
+  {
+    "year": "2001-2002",
+    "season": "2001-2002",
+    "winner": "Arsenal",
+    "points": 87,
+    "manager": "Arsène Wenger"
+  },
+  {
+    "year": "2002-2003",
+    "season": "2002-2003",
+    "winner": "Manchester United",
+    "points": 83,
+    "manager": "Sir Alex Ferguson"
+  },
+  {
+    "year": "2003-2004",
+    "season": "2003-2004",
+    "winner": "Arsenal",
+    "points": 90,
+    "manager": "Arsène Wenger"
+  },
+  {
+    "year": "2004-2005",
+    "season": "2004-2005",
+    "winner": "Chelsea",
+    "points": 95,
+    "manager": "José Mourinho"
+  },
+  {
+    "year": "2005-2006",
+    "season": "2005-2006",
+    "winner": "Chelsea",
+    "points": 91,
+    "manager": "José Mourinho"
+  },
+  {
+    "year": "2006-2007",
+    "season": "2006-2007",
+    "winner": "Manchester United",
+    "points": 89,
+    "manager": "Sir Alex Ferguson"
+  },
+  {
+    "year": "2007-2008",
+    "season": "2007-2008",
+    "winner": "Manchester United",
+    "points": 87,
+    "manager": "Sir Alex Ferguson"
+  },
+  {
+    "year": "2008-2009",
+    "season": "2008-2009",
+    "winner": "Manchester United",
+    "points": 90,
+    "manager": "Sir Alex Ferguson"
+  },
+  {
+    "year": "2009-2010",
+    "season": "2009-2010",
+    "winner": "Chelsea",
+    "points": 86,
+    "manager": "Carlo Ancelotti"
+  },
+  {
+    "year": "2010-2011",
+    "season": "2010-2011",
+    "winner": "Manchester United",
+    "points": 80,
+    "manager": "Sir Alex Ferguson"
+  },
+  {
+    "year": "2011-2012",
+    "season": "2011-2012",
+    "winner": "Manchester City",
+    "points": 89,
+    "manager": "Roberto Mancini"
+  },
+  {
+    "year": "2012-2013",
+    "season": "2012-2013",
+    "winner": "Manchester United",
+    "points": 89,
+    "manager": "Sir Alex Ferguson"
+  },
+  {
+    "year": "2013-2014",
+    "season": "2013-2014",
+    "winner": "Manchester City",
+    "points": 86,
+    "manager": "Manuel Pellegrini"
+  },
+  {
+    "year": "2014-2015",
+    "season": "2014-2015",
+    "winner": "Chelsea",
+    "points": 87,
+    "manager": "José Mourinho"
+  },
+  {
+    "year": "2015-2016",
+    "season": "2015-2016",
+    "winner": "Leicester City",
+    "points": 81,
+    "manager": "Claudio Ranieri"
+  },
+  {
+    "year": "2016-2017",
+    "season": "2016-2017",
+    "winner": "Chelsea",
+    "points": 93,
+    "manager": "Antonio Conte"
+  },
+  {
+    "year": "2017-2018",
+    "season": "2017-2018",
+    "winner": "Manchester City",
+    "points": 100,
+    "manager": "Pep Guardiola"
+  },
+  {
+    "year": "2018-2019",
+    "season": "2018-2019",
+    "winner": "Manchester City",
+    "points": 98,
+    "manager": "Pep Guardiola"
+  },
+  {
+    "year": "2019-2020",
+    "season": "2019-2020",
+    "winner": "Liverpool",
+    "points": 99,
+    "manager": "Jürgen Klopp"
+  },
+  {
+    "year": "2020-2021",
+    "season": "2020-2021",
+    "winner": "Manchester City",
+    "points": 86,
+    "manager": "Pep Guardiola"
+  },
+  {
+    "year": "2021-2022",
+    "season": "2021-2022",
+    "winner": "Manchester City",
+    "points": 93,
+    "manager": "Pep Guardiola"
+  },
+  {
+    "year": "2022-2023",
+    "season": "2022-2023",
+    "winner": "Manchester City",
+    "points": 89,
+    "manager": "Pep Guardiola"
+  },
+  {
+    "year": "2023-2024",
+    "season": "2023-2024",
+    "winner": "Manchester City",
+    "points": 91,
+    "manager": "Pep Guardiola"
+  }
+]
